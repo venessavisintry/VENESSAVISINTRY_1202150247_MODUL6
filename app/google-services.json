@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805483736536",
+    "firebase_url": "https://venessavisintry1202150247modul.firebaseio.com",
+    "project_id": "venessavisintry1202150247modul",
+    "storage_bucket": "venessavisintry1202150247modul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805483736536:android:31678de1177b710f",
+        "android_client_info": {
+          "package_name": "com.example.android.venessavisintry_1202150247_modul66"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805483736536-ko2scp1rbqs13ugua48mon4pceks9ia7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.venessavisintry_1202150247_modul66",
+            "certificate_hash": "e10a71e1549f88be6c3c9431dfff2a44f2c48349"
+          }
+        },
+        {
+          "client_id": "805483736536-kadlaq56uqtiki3g5akpvcujqgna0t1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Pqo5R-VYtEfUG5fgimi2SfaoOLNyams"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805483736536-kadlaq56uqtiki3g5akpvcujqgna0t1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
